@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bep8a2tu+OiK6Q8oCHKAIhgijGb+aQqr1s2U8/bsGv0PZxCbRobKOn6Ze6v/o43Q86DVW2N45BYLb/JR0MgRnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PiLif\\OneDrive\\Desktop\\repos\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PiLif\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

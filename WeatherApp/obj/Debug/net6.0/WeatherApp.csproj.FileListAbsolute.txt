@@ -1,0 +1,15 @@
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+C:\Users\PiLif\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
